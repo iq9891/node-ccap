@@ -1,0 +1,15 @@
+{
+  "name": "ccap",
+  "version": "1.0.0",
+  "description": {},
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ccap": "^0.6.0",
+    "querystring": "^0.2.0"
+  }
+}
