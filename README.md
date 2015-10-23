@@ -1,11 +1,13 @@
 ## 使用方法 ##
 
-1. 第一步就是在当前路径打开cmd
-2. 输入如下代码
+1. 安装node，安装node-typ，安装Python，安装vs2013
+2.配置Python
+3.在当前路径打开cmd
+4. 输入如下代码
 <pre>npm install</pre>
-3. 输入如下代码
+5. 输入如下代码
 <pre>node app</pre>
-4. 浏览器输入
+6. 浏览器输入
 <pre>http://127.0.0.1:8124/</pre>
 
 ## 功能 ##
